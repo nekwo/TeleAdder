@@ -21,7 +21,7 @@ Add More then 10000+ Members in 300 Seconds. No Daily Limit/ No Time Limit. Only
 </p>
 <p align="center">
   <a href="https://youtu.be/PToSTlVUW0M?list=TLPQMDQwMTIwMjFlhYcFLoHJbA">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+    <img src="https://www.iconsdb.com/icons/preview/blue/youtube-4-xxl.png" width="40" height="40">
   </a>
 </p>
 
