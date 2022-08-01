@@ -7,13 +7,15 @@ Add More then 10000+ Members in 300 Seconds. No Daily Limit/ No Time Limit. Only
 # This script is based on new libraries and modules (Selenium, pymongo and tgcrypto) because ols scripts pyrogram nad telethon is dead now this is the only reson those scripts shows error on adding even on scrapping
 ====================================================================
 
-# Price is 50$. and total worth you won't be disaapointed at all.
+# Price is 49$. and total worth you won't be disaapointed at all.
 ====================================================================
 
 >>>>OTP Service Available - 200 fresh new ready-made telegram accounts for 80$
 ====================================================================
 
 >>>>CONTACT ME ON TELEGRAM:- https://t.me/daredevilkinng
+
+# Modes of payment = Crypto(BTC, USDT, LTC, BUSD, BNB, or any coin) , Payoneer, Transferwise
 
 ====================================================================
 # >>>>Click On The YouTube Icon Below for instructional video of software.
