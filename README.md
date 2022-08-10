@@ -3,6 +3,8 @@ Add More then 10000+ Members in 300 Seconds. No Daily Limit/ No Time Limit. Only
 
 <h3 align="center">CONTACT ME ON TELEGRAM:- https://t.me/daredevilkinng</h3>
 
+#BSC wallet : 0x5ec1fe30541fa3f1f804fe40fd81323e26f380ba
+
 # The script won't ban your numbers it also has smart feature of ban-firewall.
 # This script is based on new libraries and modules (Selenium, pymongo and tgcrypto) because ols scripts pyrogram nad telethon is dead now this is the only reson those scripts shows error on adding even on scrapping
 ====================================================================
